@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select options</name>
+   <tag></tag>
+   <elementGuidId>eac79444-3f5d-467c-a9a4-dafc3f936826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.noo-product-item.one.noo-product-sm-4.not_featured.post-1394.product.type-product.status-publish.has-post-thumbnail.product_cat-jeans.product_tag-jeans.product_tag-women.has-featured.instock.shipping-taxable.purchasable.product-type-variable > div.noo-product-inner > div.noo-loop-cart > a.button.product_type_variable.add_to_cart_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div[3]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1e2e6cc1-cdfc-49d8-9042-048c55a5ed63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/dark-blue-vice-high-waisted-slash-knee-skinny-jeans/</value>
+      <webElementGuid>08856c64-9e6d-463f-af8a-a24f8ec100eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1fc359b1-7e86-4da8-af70-cf14346c971c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_variable add_to_cart_button</value>
+      <webElementGuid>5423f1cb-e878-4c20-a003-70e2abf85e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>1394</value>
+      <webElementGuid>fd3d0bc5-4d5b-456d-8a7b-f644f3049695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select options for “dark blue vice high waisted slash knee skinny jeans”</value>
+      <webElementGuid>afa184ae-b6ac-4d59-9372-d85a2cdf85d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>c9eea728-5d18-43cc-a267-6f7921658a9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select options</value>
+      <webElementGuid>ba31b1b8-9feb-400c-a5ba-f88605b777eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1394 product type-product status-publish has-post-thumbnail product_cat-jeans product_tag-jeans product_tag-women has-featured  instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/div[@class=&quot;noo-loop-cart&quot;]/a[@class=&quot;button product_type_variable add_to_cart_button&quot;]</value>
+      <webElementGuid>5cf58188-41d1-46cd-9238-bfe9b527811c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div[3]/div/div[3]/a</value>
+      <webElementGuid>70281c9c-d5d9-4762-9a11-7548f3187991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select options')])[3]</value>
+      <webElementGuid>72abb901-8b83-4055-96f5-ea9ff1e1945d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[6]/following::a[1]</value>
+      <webElementGuid>7d7be2e4-5a64-4287-8117-03f54c29498c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dark blue sinner distress knee high waist skinny jeans'])[1]/preceding::a[1]</value>
+      <webElementGuid>2422941e-e09a-4aff-8540-b61499ce1650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jeans'])[4]/preceding::a[2]</value>
+      <webElementGuid>8cdfc7e0-6233-4aab-8d0e-6c6349adae4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://shop.demoqa.com/product/dark-blue-vice-high-waisted-slash-knee-skinny-jeans/')])[6]</value>
+      <webElementGuid>85e065c2-f6b7-47a2-9a34-4dc67294ee9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/a</value>
+      <webElementGuid>d0e7cf5d-15e6-4054-b28c-7f86529549f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/product/dark-blue-vice-high-waisted-slash-knee-skinny-jeans/' and (text() = 'Select options' or . = 'Select options')]</value>
+      <webElementGuid>e6fffc46-c447-49a6-b66f-c412bf9957e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
